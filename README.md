@@ -51,3 +51,11 @@ Optimized for signal integrity, RF performance, and low EMI.
 
 - Designed in **KiCad**
 - Program using **STM32CubeIDE** or **STM32CubeProgrammer**
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/a771ad2b-2dbc-4755-b0a7-7337f5e72518)
+
+![image](https://github.com/user-attachments/assets/f8cd4a05-4024-43c4-b500-757b5fccdd21)
+![image](https://github.com/user-attachments/assets/0ecf6c70-0d0e-400e-b3a8-517b80e5d2cc)
+
